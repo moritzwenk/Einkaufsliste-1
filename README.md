@@ -2,6 +2,7 @@
 
 ## Persönliche Daten
 **Name:** Peter Mustermann
+
 **Anschrift:** Musterweg 255
 
 ## Schule und Ausbildung
