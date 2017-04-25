@@ -1,0 +1,8 @@
+# Einkaufsliste
+* Bananen
+* Birnen
+* Milch
+* Sahne
+* Eier
+* Mehl
+* Kartoffeln
