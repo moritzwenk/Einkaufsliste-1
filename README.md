@@ -16,4 +16,4 @@
 
 Der folgende Text `ist als Quellcode formatiert`
 
- 
+![](homer.jpg "")
