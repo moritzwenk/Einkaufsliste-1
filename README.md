@@ -1,11 +1,15 @@
 # Lebenslauf
 
+## Persönliche Daten
+**Name:** Peter Mustermann
+**Anschrift:** Musterweg 255
+
 ## Schule und Ausbildung
 * Hans Peter Realschule
-* Ausbildung zum Pommesverkäufer
+* Ausbildung zum Pommesfachverkäufer
 
 ## Arbeit
-***Muss noch ergänzt werden***
+***Fehlt noch***
 
 > Zitat
 
