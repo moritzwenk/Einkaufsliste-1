@@ -5,3 +5,5 @@
 - Eier
 - Mehl
 - Kartoffeln
+- Brot
+- Honig
