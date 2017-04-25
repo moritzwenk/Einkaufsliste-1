@@ -1,13 +1,13 @@
 # Lebenslauf
 
 ## Persönliche Daten
-**Name:** Peter Mustermann
+**Name:** Homer Simpson
 
-**Anschrift:** Musterweg 255
+**Anschrift:** Evergreen Terrace, Springfield
 
 ## Schule und Ausbildung
 * Hans Peter Realschule
-* Ausbildung zum Pommesfachverkäufer
+* Ausbildung zum Pommesverkäufer
 
 ## Arbeit
 ***Fehlt noch***
