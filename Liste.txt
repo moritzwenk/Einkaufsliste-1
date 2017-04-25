@@ -1,8 +1,7 @@
-# Einkaufsliste
-* Bananen
-* Birnen
-* Milch
-* Sahne
-* Eier
-* Mehl
-* Kartoffeln
+- Bananen
+- Birnen
+- Milch
+- Sahne
+- Eier
+- Mehl
+- Kartoffeln
